@@ -35,7 +35,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Lunaris Global Limited
+            Lunaris Global Limited<br />
             RM A1-13,BLK A 3/F,YEE LIM IND CTR, 2-28 KWAI LOK ST, KWAI CHUNG, Hongkong
           </p>
         </a>
